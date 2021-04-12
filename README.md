@@ -26,6 +26,22 @@ A startup is starting a bike share busines in Des Moines.  In order to better un
 - August Peak Riding Hours by Gender
 - Customer Type (Subscribers/ Non-Subscribers)
 
+![Image 1](https://github.com/PatriciaCB1/Bikesharing/blob/main/Images/Screen%20Shot%202021-04-11%20at%209.08.02%20PM.png)
+
+![Image 2](https://github.com/PatriciaCB1/Bikesharing/blob/main/Images/Screen%20Shot%202021-04-11%20at%209.08.21%20PM.png)
+
+![Image 3](https://github.com/PatriciaCB1/Bikesharing/blob/main/Images/Screen%20Shot%202021-04-11%20at%209.08.42%20PM.png)
+
+![Image 4](https://github.com/PatriciaCB1/Bikesharing/blob/main/Images/Screen%20Shot%202021-04-11%20at%209.08.59%20PM.png)
+
+![Image 5](https://github.com/PatriciaCB1/Bikesharing/blob/main/Images/Screen%20Shot%202021-04-11%20at%209.09.12%20PM.png)
+
+![Image 6](https://github.com/PatriciaCB1/Bikesharing/blob/main/Images/Screen%20Shot%202021-04-11%20at%209.09.23%20PM.png)
+
+![Image 7](https://github.com/PatriciaCB1/Bikesharing/blob/main/Images/Screen%20Shot%202021-04-11%20at%209.09.35%20PM.png)
+
+![Image 8](https://github.com/PatriciaCB1/Bikesharing/blob/main/Images/Screen%20Shot%202021-04-11%20at%209.09.50%20PM.png)
+
 
 - The majority of bikes are taken on shorter trips - with a typical duration of 5 mins (146,752)  In NYC the city is more compact likely with closer destinations.  In Des Moines we would likely see longer trip durations as locations are more spread out.
 - The most common trip duration for males is 5 mins, for females 6 mins and for gender unknown 11 mins.  In order to understand this distribution better, we must better understand the gender distribution across all trips.
